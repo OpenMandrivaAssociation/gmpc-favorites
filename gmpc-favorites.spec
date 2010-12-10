@@ -1,7 +1,7 @@
 Summary:	A favorites plugin for gmpc
 Name:		gmpc-favorites
 Version:	0.15.5.0
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl
